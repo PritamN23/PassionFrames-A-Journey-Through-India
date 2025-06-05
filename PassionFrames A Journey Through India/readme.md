@@ -90,8 +90,8 @@ MyGallery/
 
 ## Credits
 
-- All descriptions and curation by [Your Name].
-- Images sourced by the project creator (replace with your own or use royalty-free images).
+- All descriptions and curation by Pritam Nagdeve.
+- Images sourced by https://unsplash.com/
 - Monument information referenced from Wikipedia.
 
 ---
